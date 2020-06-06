@@ -1,2 +1,2 @@
-# Arduino_Projects
-This is a collection of my Arduino projects.
+# Hi there
+This is a collection of my Arduino projects. 
